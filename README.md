@@ -1,7 +1,7 @@
 
 📫 smooches@hey.com
 
-Reading List: 
+📚 Reading List: 
 
 RESTful Web Services
 - Book by Leonard Richardson and Sam Ruby
