@@ -17,5 +17,6 @@ _Book by Noel Rappin_
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="Author of Jeweler's Apprentice." style="width:50px;"/> Author of Jeweler's Apprentice.
-x
+<img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="Author of Jeweler's Apprentice." style="width:50px;"/> 
+
+Author of Jeweler's Apprentice.
