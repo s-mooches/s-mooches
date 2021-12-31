@@ -17,5 +17,5 @@ Modern Front-End Development for Rails
 
 
 
-![Author of Jeweler's Apprentice.](https://cdn-icons-png.flaticon.com/512/919/919842.png)
+<img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="Author of Jeweler's Apprentice." style="width:200px;"/>
 Author of Jeweler's Apprentice.
