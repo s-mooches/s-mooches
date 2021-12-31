@@ -1,4 +1,7 @@
 
+
+If you would like to talk about books or code contact me. 
+
 📫 smooches@hey.com
 
 📚 Reading List: 
@@ -12,6 +15,7 @@ Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design
 Modern Front-End Development for Rails
 - Book by Noel Rappin
 
-If you would like to talk about books or code contact me. 
 
-Author of Jeweler's Apprentice. 
+
+![Author of Jeweler's Apprentice.](https://image.emojipng.com/444/9289444.jpg)
+Author of Jeweler's Apprentice.
