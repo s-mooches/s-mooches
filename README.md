@@ -6,14 +6,14 @@ If you would like to talk about books or code contact me.
 
 📚 **Reading List**: 
 
-RESTful Web Services
-- Book by Leonard Richardson and Sam Ruby
+**RESTful Web Services**
+_Book by Leonard Richardson and Sam Ruby_
 
-Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design
-- Book by Michael J. Hernandez
+**Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design**
+_Book by Michael J. Hernandez_
 
-Modern Front-End Development for Rails
-- Book by Noel Rappin
+**Modern Front-End Development for Rails**
+_Book by Noel Rappin_
 
 
 
