@@ -2,9 +2,9 @@
 
 If you would like to talk about books or code contact me. 
 
-📫 smooches@hey.com
+📫 **smooches@hey.com**
 
-📚 Reading List: 
+📚 **Reading List**: 
 
 RESTful Web Services
 - Book by Leonard Richardson and Sam Ruby
